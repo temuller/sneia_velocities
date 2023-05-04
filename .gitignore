@@ -1,4 +1,5 @@
 spectra/
+peak_spectra/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
